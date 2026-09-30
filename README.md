@@ -1,3 +1,19 @@
+# 웹 서버 프로그래밍 2026
+
+# Week 04. State Hoisting
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-3178C6?style=for-the-badge&logo=github&logoColor=white)](https://devbwoh.github.io/w26w04-state-hoisting/)
+
+
+https://nano5.notion.site/State-Hoisting-981daf211d42826ca51281c38f818bdf
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/7bad7396-32fe-4cf3-8ba1-c8e970c408b3" />
+
+---
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/0307e862-4982-47fb-a276-60a7e9164888" />
+
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
